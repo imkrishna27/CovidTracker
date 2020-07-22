@@ -9,7 +9,7 @@ This application uses API to access data from web and then convert it to JSON to
 
 ## Screenshot of Project
 
-![] lib/(Screenshot_2020-07-22-11-34-34-86_7a6918b0fd167fc009b81e27472aef16.jpg)
+![](lib/Screenshot_2020-07-22-11-34-34-86_7a6918b0fd167fc009b81e27472aef16.jpg)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
