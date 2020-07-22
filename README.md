@@ -3,8 +3,8 @@
 Keep you updated about coronavirus cases around world.
 
 ## Details
-Technology Used - Flutter
-Language Used - Dart
+-Technology Used - Flutter.
+-Language Used - Dart.
 This application uses API to access data from web and then convert it to JSON to present necessary information.
 
 
