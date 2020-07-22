@@ -1,15 +1,12 @@
-# covid20
+# CoronaVirus Tracker Application using Flutter.
 
-A new Flutter application.
+Keep you updated about coronavirus cases around world.
 
-## Getting Started
+## Details
+Technology Used - Flutter
+Language Used - Dart
+This application uses API to access data from web and then convert it to JSON to present necessary information.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
